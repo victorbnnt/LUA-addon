@@ -1,0 +1,25 @@
+## Interface: 40000
+## Title: LLPvpState
+## Notes: Pvp Scores and Timers
+## SavedVariables: LLPvpStateSaves
+
+
+Localization\French.lua
+Localization\English.lua
+Init.lua
+LLPvpState.lua
+Functions.lua
+Config.lua
+Other.lua
+ArathiBasin.lua
+WarsongGulch.lua
+Wintergrasp.lua
+IsleOfConquest.lua
+EyeOfTheStorm.lua
+StrandOfAncients.lua
+AlteracValley.lua
+GilneasBattle.lua
+TwinPeaks.lua
+TolBarad.lua
+
+
